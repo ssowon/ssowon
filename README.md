@@ -25,15 +25,20 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
 </p>
 
 <br><br>
 <h3 align="center"> 🍒 Sowon 🍒 </h3>
 <p align="center">
   <a href="https://imawish.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="mailto:thdnjs5018@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thdnjs5018@naver.com"/></a>
+  <a href="mailto:thdnjs3596@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thdnjs3596@gmail.com"/></a>
+  <a href="https://www.instagram.com/1am_wish/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1am_wish/"/>
 </p>
 <br>
 
