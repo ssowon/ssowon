@@ -25,7 +25,6 @@
   <br>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-pink.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
   
-  https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square
 
 </p>
 
