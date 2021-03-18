@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Linux-6C6694.svg?&style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?&style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Windows-0078D6.svg?&style=flat-square&logo=windows&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspbian%20Pi-pink.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Raspbian-pink.svg?style=flat-square&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
 </p>
 
 <p align="center"> Cloud </p>
