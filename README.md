@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-pink.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
     
 
 </p>
