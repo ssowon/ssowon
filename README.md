@@ -1,4 +1,4 @@
-# Sowon-Choi 
+# 최소원
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SowonChoi&fontSize=90&animation=fadeIn&fontAlignY=38)
   
 
