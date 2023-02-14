@@ -1,8 +1,8 @@
 # 최소원
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최소원&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최소원&fontSize=60&animation=fadeIn&fontAlignY=38)
   
 
-- 🌱 I’m currently learning Developing around JavaScript, Node.JS 
+- 🌱 I’m currently learning Developing around JavaScript, Node.JS, Nest.JS, PHP
 - 💬 Ask me about tech
 - 📫 How to reach me: thdnjs5018@naver.com
 
@@ -12,15 +12,12 @@
 
 <p align="center">  
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
     
 
@@ -30,9 +27,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Unity-57b9d3?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 </p>
 
 <p align="center"> OS </p>
