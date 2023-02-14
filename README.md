@@ -1,5 +1,5 @@
 # 최소원
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SowonChoi&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최소원&fontSize=90&animation=fadeIn&fontAlignY=38)
   
 
 - 🌱 I’m currently learning Developing around JavaScript, Node.JS 
