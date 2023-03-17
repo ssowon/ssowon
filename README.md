@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최소원&fontSize=60&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=최소원&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend-developer&&fontColor=black)
   
 
-- 🌱 I’m currently learning Developing around JavaScript, Node.JS, Nest.JS, PHP
-- 💬 Ask me about tech
-- 📫 How to reach me: thdnjs5018@naver.com
+- 🌱 I’m currently learning Developing around Node.JS, Nest.JS, PHP
+- 📫 How to reach me: thdnjs3596@gmail.com
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> 
 
