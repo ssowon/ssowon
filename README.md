@@ -10,45 +10,20 @@
 
 <p align="center">  
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat-square"/></a>&nbsp 
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
-    
-
 </p>
 
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-57b9d3?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-</p>
-
-<p align="center"> OS </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Linux-6C6694.svg?&style=flat-square&logo=linux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?&style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?&style=flat-square&logo=windows&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspbian-pink.svg?style=flat-square&logo=raspberry-pi&logoColor=white"/></a>&nbsp 
-</p>
-
-<p align="center"> Cloud </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat-square"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-NaverCloud-03c75A.svg?logo=Naver&style=flat-square"/></a>&nbsp 
 </p>
 
 
