@@ -10,9 +10,7 @@
 
 <p align="center">  
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat-square"/></a>&nbsp 
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
