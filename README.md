@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=최소원&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend-developer&&fontColor=black)
   
 
-- 🌱 I’m currently learning Developing around Node.JS, Nest.JS, PHP
+- 🌱 I’m currently learning Developing around Python, Node.JS
 - 📫 How to reach me: thdnjs3596@gmail.com
 
 <h3 align="center">🛠 Tech Stack 🛠</h3> 
