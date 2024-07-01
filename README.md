@@ -10,12 +10,15 @@
 
 <p align="center">  
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">  
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>&nbsp  
 </p>
 
 
